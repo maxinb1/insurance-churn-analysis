@@ -1,13 +1,13 @@
 # insurance-churn-analysis
-Busniess questions:
+Business questions:
 
-    churn probability to happen ?
-    Who is leaving?
-    why the customer is leaving?
-    how to improve our retention?
+1. Who is leaving? Which segments (policy type, tenure, premium, claims history) churn most?
+2. What factors are associated with churn (price increases, claims experience, payment behaviour)?
+3. Can we predict which policyholders will churn, and how accurately?
+4. Which at-risk customers are worth a retention offer, and what should we do?
 
 Data :
-Kaggle, [Realistic Synthetic Insurance Churn Dataset for ML](https://www.kaggle.com/datasets/andrewdiachkov/realistic-synthetic-insurance-churn-dataset-for-ml/data) , 40 columns, 50,000 rows
+Realistic Synthetic Insurance Churn Dataset  Kaggle, [Realistic Synthetic Insurance Churn Dataset for ML](https://www.kaggle.com/datasets/andrewdiachkov/realistic-synthetic-insurance-churn-dataset-for-ml/data) , 40 columns, 50,000 rows
 
 
 Project plan:
