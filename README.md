@@ -18,3 +18,12 @@ Project plan:
     power BI dashboard
     churn prediction model
     Recommendation and solutions
+
+
+What’s the overall churn rate? 30.166 %
+Which columns have missing values? none 
+Which column is churn_probability_true? Last one
+Which columns do you expect to matter most for churn, and why? 
+  -num_price_increases_last_3y
+  -Current premium
+  -anything related to premium and coverages
